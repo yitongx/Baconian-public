@@ -1,0 +1,11 @@
+{
+  "REPLAY_BUFFER_SIZE": 10000,
+  "GAMMA": 0.999,
+  "CRITIC_LEARNING_RATE": 0.001,
+  "ACTOR_LEARNING_RATE": 0.001,
+  "DECAY": 0.5,
+  "BATCH_SIZE": 5,
+  "TRAIN_ITERATION": 1,
+  "critic_clip_norm": null,
+  "actor_clip_norm": null
+}
